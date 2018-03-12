@@ -1,2 +1,2 @@
-# --- PollNews ---
-# Description: Just a practice of Python from MIT 6.001SC
+# _____ PollNews _____
+## Description: Just a practice of Python from MIT 6.001SC
